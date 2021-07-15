@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-keyboard-context-menu-fix-plugin",
+  "name": "Fixes keyboard navigation of spelling suggestion context menu.",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.10",
+  "description": "This plugin is a workaround to make the context menu keyboard navigable when it's opened with the keyboard.",
+  "author": "zapthedingbat <sam@radicalresearch.co.uk>",
+  "authorUrl": "https://obsidian.md/about",
+  "isDesktopOnly": true
+}
